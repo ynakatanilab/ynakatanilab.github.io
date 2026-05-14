@@ -1,5 +1,5 @@
 ---
-title: 中谷研究室
+title: 中谷研究室 (Nakatani lab.)
 ---
 # 中谷研究室 (Nakatani lab.)
 

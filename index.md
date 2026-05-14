@@ -2,7 +2,7 @@
 title: 中谷研究室 (Nakatani lab.)
 ---
 
-ホーム | [研究紹介](research.html)  |  [ゼミ活動](seminar.html)
+ホーム | [研究紹介](research.html)  |  [ゼミ活動](seminar.html) | 授業 | その他
 
 
 私たちの研究室では、産業連関表を用いた地域経済の分析と、地域課題への理解、地域活性化、ホスピタリティの実践をテーマとしています。
@@ -20,4 +20,4 @@ title: 中谷研究室 (Nakatani lab.)
 
 研究室： 2号館 211
 
-メール： nakatani@bunri-c.ac.jp
+

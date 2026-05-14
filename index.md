@@ -1,7 +1,6 @@
 ---
 title: 中谷研究室 (Nakatani lab.)
 ---
-# 中谷研究室 (Nakatani lab.)
 
 [研究紹介](research.html)  |  [ゼミ活動](seminar.html)
 

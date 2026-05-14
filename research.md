@@ -2,7 +2,7 @@
 title: 研究紹介
 ---
 
-[Home](index.html) | [研究紹介]| [ゼミ活動](seminar.html)
+[Home](index.html) | 研究紹介| [ゼミ活動](seminar.html)
 
 # 研究の紹介
 ここでは、私が取り組んでいる研究について説明します。

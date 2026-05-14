@@ -1,6 +1,9 @@
 ---
 title: ゼミ活動紹介
 ---
+
+[Home](index.html) | [研究紹介](research.html) | [ゼミ活動](seminar.html)
+
 # ゼミ活動の紹介
 最近のゼミ活動について記録をしていきます。
 

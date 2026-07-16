@@ -13,6 +13,7 @@ title: 中谷研究室 (Nakatani lab.)
 - 場所： 飯能信用金庫狭山支店様駐車場（謙受堂様となり）[Google Map](https://maps.app.goo.gl/vfgiNpYqg51rkURv8)
 - 内容： かき氷の販売、こども無料縁日、無料休憩スペースほか
 - 2年生＆3年生のみんなでホスピタリティあふれる体験価値を提供します
+- 私たちの取り組みが狭山市広報誌「広報さやま」（2026年7月号）で紹介されています（[広報さやま](https://www.city.sayama.saitama.jp/shisei/kouhou/koho/kohosayama/index.html)）
 
 [入間川七夕まつり公式サイト](https://tanabata.sayama-kanko.jp/)
 

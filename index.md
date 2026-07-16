@@ -10,11 +10,11 @@ title: 中谷研究室 (Nakatani lab.)
 
 ## おしらせ
 8/1・8/2 「入間川七夕まつり」では中谷ゼミで模擬店および七夕飾りの掲出を行います
-- 場所： 飯能信用金庫狭山支店様駐車場（謙受堂様となり）https://maps.app.goo.gl/vfgiNpYqg51rkURv8
+- 場所： 飯能信用金庫狭山支店様駐車場（謙受堂様となり）[Google Map](https://maps.app.goo.gl/vfgiNpYqg51rkURv8)
 - 内容： かき氷の販売、こども無料縁日、無料休憩スペースほか
 - 2年生＆3年生のみんなでホスピタリティあふれる体験価値を提供します
 
-入間川七夕まつり公式サイト（https://tanabata.sayama-kanko.jp/）
+[入間川七夕まつり公式サイト](https://tanabata.sayama-kanko.jp/)
 
 
 ## 連絡先
